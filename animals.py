@@ -19,9 +19,6 @@ animals.append("Delfín de Eva")
 >>>>>>> origin/main
 print("Hay", len(animals), "animales en el zoológico")
 for a in animals:
-<<<<<<< HEAD
     print("-", a)
-=======
     print("-")
->>>>>>> 28e8c7c1b2e16752c5046df3074ec4ad2dae513c
 
