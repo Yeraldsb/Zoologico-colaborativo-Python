@@ -1,7 +1,7 @@
 animals = []
 
 # Cada persona añade su animal aquí:
-# animals.append("Tigre de Ana")
+animals.append("Lobo de Sara") # animals.append("Tigre de Ana")
 
 # ...
 animals.append("Delfín de Eva")
