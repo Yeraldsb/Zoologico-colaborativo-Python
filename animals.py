@@ -4,8 +4,10 @@ animals = []
 # animals.append("Tigre de Ana")
 
 # ...
-animals.append("Gato de Ivan")
-
+animals.append("gato de Ivan")
+animals.append("Panda de Juan")
+animals.append("Nutria de Michelle")
+animals.append("Oso Cheye")
 print("Hay", len(animals), "animales en el zoológico")
 for a in animals:
     print("-", a)
