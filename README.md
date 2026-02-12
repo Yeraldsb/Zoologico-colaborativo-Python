@@ -9,7 +9,6 @@ Prepárate para el caos.
 ---
 
 ## 🎯 Objetivo del ejercicio
-
 Aprender:
 
 - Cómo hacer **commits**
