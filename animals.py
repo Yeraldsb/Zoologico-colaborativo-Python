@@ -14,7 +14,7 @@ animals.append("Oso Cheye")
 animals.append("Lobo de Sara") 
 animals.append("Delfín de Eva")
 animals.append("Camaleón de Carol")
-
+animals.append("Leona de Arantxa")
 print("Hay", len(animals), "animales en el zoológico")
 for a in animals:
     print("-",a)
