@@ -4,6 +4,7 @@ animals = []
 # animals.append("Tigre de Ana")
 
 # ...
+animals.append("Rata de Sana")
 print("Hay", len(animals), "animales en el zoológico")
 for a in animals:
     print("-", a)
