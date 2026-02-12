@@ -13,7 +13,7 @@ animals.append("Lobito de pelo gordo de Alain")
 animals.append("Perro de Juan")
 animals.append("Nutria de Michelle")
 animals.append("Oso Cheye")
-animals.append("Lobo de Sara") 
+animals.append("Lobo blanco de Sara") 
 animals.append("Delfín de Eva")
 animals.append("Camaleón de Carol")
 
