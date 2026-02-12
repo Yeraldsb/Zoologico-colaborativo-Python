@@ -11,8 +11,15 @@ animals = []
 
 
 
-animals.append("Gato de Diana")
 
+
+
+
+
+
+
+
+animals.append("Gato de Diana")
 print("Hay", len(animals), "animales en el zoológico")
 for a in animals:
     print("-", a)
