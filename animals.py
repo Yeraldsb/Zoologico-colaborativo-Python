@@ -7,7 +7,7 @@ animals = []
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-animals.append("Leon de Alejandro")
+animals.append("Leon de Alejandrore")
 =======
 animals.append("Nutria de Michelle")
 >>>>>>> d15cc4175d4bf06dd4278f65f5c8d8baad9a3726
