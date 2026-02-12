@@ -6,14 +6,14 @@ animals = []
 animals.append ("Alpaca de Agata")
 ==
 animals.append("Rata de Sana")
-animals.append("Lobito de pelo gordo de Alain")git checkout -b feature/add-tigre-ana
+animals.append("Lobito de pelo gordo de Alain")git
 animals.append("Perro de Juan")
 
 animals.append("Nutria de Michelle")
 animals.append("Oso Cheye")
 animals.append("Lobo de Sara") 
 animals.append("Delfín de Eva")
->>>>>>> origin/main
+>>>>>>> origin/maingit 
 print("Hay", len(animals), "animales en el zoológico")
 for a in animals:
     print("-", a)
