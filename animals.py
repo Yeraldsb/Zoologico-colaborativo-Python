@@ -8,7 +8,7 @@ animals.append ("Alpaca de Agata")
 animals.append("Rata de Sana")
 animals.append("Lobito de pelo gordo de Alain")
 animals.append("Perro de Juan")
-
+animals.append("caballo de Graciela)
 animals.append("Nutria de Michelle")
 animals.append("Oso Cheye")
 animals.append("Lobo de Sara") 
