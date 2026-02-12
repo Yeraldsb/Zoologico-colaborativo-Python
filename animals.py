@@ -4,7 +4,7 @@ animals = []
 # animals.append("Tigre de Ana")
 
 # ...
-animals.append("Lobito de pelo gordo de Alain")
+animals.append("Lobito de pelo gordito de Alain")
 animals.append("Perro de Juan")
 
 animals.append("Nutria de Michelle")
