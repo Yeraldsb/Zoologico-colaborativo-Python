@@ -4,12 +4,8 @@ animals = []
 # animals.append("Tigre de Ana")
 
 # ...
-<<<<<<< HEAD
-<<<<<<< HEAD
-animals.append("Caballo de CPG")
-
-=======
-=======
+animals.append("Rata de Sana")
+animals.append("Lobito de pelo gordo de Alain")
 animals.append("Perro de Juan")
 
 >>>>>>> e6387c28a77aeb877df0a8911edd805800d09991
