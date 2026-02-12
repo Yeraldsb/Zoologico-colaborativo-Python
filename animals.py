@@ -5,9 +5,14 @@ animals = []
 
 # ...
 <<<<<<< HEAD
+<<<<<<< HEAD
 animals.append("Caballo de CPG")
 
 =======
+=======
+animals.append("Perro de Juan")
+
+>>>>>>> e6387c28a77aeb877df0a8911edd805800d09991
 animals.append("Nutria de Michelle")
 animals.append("Oso Cheye")
 gitanimals.append("Lobo de Sara") 
