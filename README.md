@@ -9,11 +9,10 @@ Prepárate para el caos.
 ---
 
 ## 🎯 Objetivo del ejercicio
-
 Aprender:
 
 - Cómo hacer **commits**
-- Cómo hacer `git pull` y `git push`
+- Cómo hacer `git pull` y `git push`git pul
 - Qué es un **conflicto de merge** y cómo resolverlo
 - Cómo colaborar en un archivo Python compartido
 - Cómo sobrevivir cuando muchas personas editan la misma línea
