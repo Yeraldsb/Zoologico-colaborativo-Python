@@ -1,18 +1,10 @@
 animals = []
-
 # Cada persona añade su animal aquí:
-animals.append("Lobo de Sara") # animals.append("Tigre de Ana")
-
+# animals.append("Tigre de Ana")
 # ...
-<<<<<<< HEAD
-<<<<<<< HEAD
-animals.append("Leon de Alejandro")
-=======
-animals.append("Nutria de Michelle")
->>>>>>> d15cc4175d4bf06dd4278f65f5c8d8baad9a3726
-=======
-animals.append("Delfín de Eva")
->>>>>>> b10b01b668eb829b50f889f692ce3ecfede12a82
+
+animals.append("leon de alejandro")
 print("Hay", len(animals), "animales en el zoológico")
 for a in animals:
-    print("-", a)
+    print("-")
+
