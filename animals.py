@@ -4,9 +4,9 @@ animals = []
 # ...
 <<<<<<< HEAD
 animals.append ("Alpaca de Agata")
-=======
+==
 animals.append("Rata de Sana")
-animals.append("Lobito de pelo gordo de Alain")
+animals.append("Lobito de pelo gordo de Alain")git checkout -b feature/add-tigre-ana
 animals.append("Perro de Juan")
 
 animals.append("Nutria de Michelle")
