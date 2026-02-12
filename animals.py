@@ -10,6 +10,8 @@ animals.append("Nutria de Michelle")
 animals.append("Oso Cheye")
 animals.append("Lobo de Sara") 
 animals.append("Delfín de Eva")
+animals.appened("Leon de Arantxa")
 print("Hay", len(animals), "animales en el zoológico")
 for a in animals:
-    print("-", a)
+    print("-")
+
