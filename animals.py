@@ -14,7 +14,7 @@ animals.append("Oso Cheye")
 animals.append("Lobo de Sara") 
 animals.append("Delfín de Eva")
 
-animals.append("Koala de Lucy")
+animals.append("T-rex de Lucy")
 
 animals.append("Nutria de Michelle")
 animals.append("Oso Cheye")
