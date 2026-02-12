@@ -15,6 +15,7 @@ animals.append("Nutria de Michelle")
 animals.append("Oso Cheye")
 animals.append("Lobo de Sara") 
 animals.append("Delfín de Eva")
+animals.append("Camaleón de Carol")
 
 >>>>>>> bf5cf16b5da7169f95dbaeba76171cda4b3704ca
 print("Hay", len(animals), "animales en el zoológico")
