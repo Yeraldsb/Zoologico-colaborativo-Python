@@ -2,6 +2,8 @@ animals = []
 # Cada persona añade su animal aquí:
 # animals.append("Tigre de Ana")
 # ...
+animals.append("Nutria gordita de Michelle")
+animals.append("Oso amoroso Cheye")
 animals.append("Cuervo de Alejandro")
 animals.append("Zorro de Jenireé")
 animals.append("Jirafa de Chiara")
