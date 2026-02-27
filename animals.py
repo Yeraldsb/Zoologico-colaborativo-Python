@@ -1,4 +1,5 @@
 animals = []
+animals.append("lechuza de Francisco") 
 # Cada persona añade su animal aquí:
 # animals.append("Tigre de Ana")
 # ...
